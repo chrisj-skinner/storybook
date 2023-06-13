@@ -1,3 +1,10 @@
+## 7.1.0-alpha.33
+
+- CLI: Improve steps in storybook init - [#22502](https://github.com/storybookjs/storybook/pull/22502), thanks [@yannbf](https://github.com/yannbf)!
+- CLI: Run `storybook dev` as part of `storybook init` - [#22928](https://github.com/storybookjs/storybook/pull/22928), thanks [@yannbf](https://github.com/yannbf)!
+- Core: Unify cache location configurability - [#22079](https://github.com/storybookjs/storybook/pull/22079), thanks [@kubijo](https://github.com/kubijo)!
+- Maintenance: Deprecate channel packages, merge into a single browserChannel, update builders - [#23032](https://github.com/storybookjs/storybook/pull/23032), thanks [@ndelangen](https://github.com/ndelangen)!
+
 ## 7.1.0-alpha.32
 
 - Build: Remove `babel-core` & upgrade `esbuild` - [#23017](https://github.com/storybookjs/storybook/pull/23017), thanks [@ndelangen](https://github.com/ndelangen)!
